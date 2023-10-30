@@ -1,7 +1,7 @@
 <style>
     body {
         background-color: black;
-        color: white; /* Cambia el color del texto si es necesario */
+        color: white; 
     }
 </style>
     
