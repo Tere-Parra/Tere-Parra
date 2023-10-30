@@ -1,6 +1,6 @@
 ![Header](Tere.png "Header")
 
-# About me!
+# About me
 
  <p align="left"> My name is Tere Parra, and I am a Mexican Biologist.
   
