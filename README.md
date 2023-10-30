@@ -1,9 +1,4 @@
-<style>
-    body {
-        background-color: black;
-        color: white; 
-    }
-</style>
+
     
 
 ![Header](Tere.png "Header")
