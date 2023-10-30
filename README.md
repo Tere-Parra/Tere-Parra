@@ -9,7 +9,7 @@ Computational Biology.  My passion for understanding life is consolidated, drive
 
 Moreover, two years ago with the COVID-19 pandemic, the gift of a desktop computer from my aunt when closing her offices, changed my life, because it allowed me to focus on bioinformatics and discover that it is amazing. I understood that with little computational capacity, a lot could be done. It was a tool that would allow me to develop powerful solutions at low cost. My experiences, together with what I have seen in my country, my community, and other states have taught me that, to solve scientific and social problems, we need people who act to generate them. And today, with a computer and my mind, I feel like I'm able to solve them.
 
-That is the reason why I share my work and experiences through my personal git-hub. Furthermore, as an international Fulbright-Garcia-Robles scholar, I am pursuing my Bioinformatics PhD degree. 
+That is the reason why I share my work and experiences through my personal git-hub. Furthermore, as an international Fulbright-Garcia-Robles scholar, I want to pursue a Bioinformatics PhD degree. 
 
 🌱 I’m currently working with Genome-Scale Metabolic Models (GEM) in plants to fight climate change 
 
@@ -17,7 +17,7 @@ That is the reason why I share my work and experiences through my personal git-h
 
 👨‍💻 All of my projects are available 
 
-📝 I actively post on LinkedIn [![LinkedIn][3.2]][3]
+📝 I actively post on LinkedIn [![https://www.linkedin.com/in/tere-parra-303ab6166/][3.2]][3]
 
 👀 Ask me about Bioinformatics, Transcriptomics, Proteomics, Metabolomics and more ...
 
