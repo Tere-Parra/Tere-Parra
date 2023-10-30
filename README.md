@@ -88,10 +88,7 @@ That is the reason why I share my work and experiences through my personal git-h
 </a>
 <br><br>
 
-<a href="https://github.com/Tere-Parra">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Tere-Parra&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Tere's GitHub Contributions Graph"/>
-</a>
-<br><br>
+
 
 
 
