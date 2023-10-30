@@ -17,7 +17,7 @@ That is the reason why I share my work and experiences through my personal git-h
 
 👨‍💻 All of my projects are available 
 
-📝 I actively post on LinkedIn [![https://www.linkedin.com/in/tere-parra-303ab6166/][3.2]][3]
+📝 I actively post on LinkedIn [![https://www.linkedin.com/in/tere-parra-303ab6166/]
 
 👀 Ask me about Bioinformatics, Transcriptomics, Proteomics, Metabolomics and more ...
 
