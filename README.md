@@ -38,28 +38,17 @@ That is the reason why I share my work and experiences through my personal git-h
   <a href="https://github.com/Tere-Parra/Finding-genes-correlated-to-abiotic-stress-in-plants." target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="http://nftportalbyrahul.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
       </p>
         <p><strong> WGCNA is a library in R that allows you to find genes' relationship with specific traits .</p>
    
   </td>
     <td width="50%" valign="top">
       <h3 align="center"> Differential-Genes-in-Two-Types-of-Abiotic-Stress-in-Plants </h3>
-        <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/waveportal.jpg" width="100%"  alt="Wave Portal"/>
-        </a>
-        <br />
-        <p align="center">
+ 
    <br>
   <a href="https://github.com/Tere-Parra/Differential-Genes-in-Two-Types-of-Abiotic-Stress-in-Plants" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a> 
-  <a href="https://waveatrahul.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
       </p>
         <p><strong> In this analysis we took only the samples belonging to the conditions of water stress (WS) and water stress together with irradiation (WS + HL) .</p>
     </td>
@@ -68,18 +57,9 @@ That is the reason why I share my work and experiences through my personal git-h
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"> Finding differential genes that may be involved in the overall survival of pancreatic cancer patients  </h3>
-      <br />
-        <a target="_blank" href="https://rahulkarda.netlify.app">
-          <img src="images/portfolio.jpg" width="100%" alt="Portfolio"/>
-        </a>
-      <br />
-        <p align="center">
-          <br>
+         <br> 
   <a href="https://github.com/Tere-Parra/Finding-genes-that-may-be-involved-in-pancreatic-cancer-patient-survival" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="http://rahulkarda.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong> The Genomic Data Commons (GDC) is a portal that contains a lot of projects related to cancer diseases. The GDC has transcriptomic, proteomic, genomic, and metabolomic data from Cancer patients. Here, I developed a pipeline to analyze a pancreatic cancer project. </p>
@@ -87,6 +67,31 @@ That is the reason why I share my work and experiences through my personal git-h
   </tr>
 </table>
 
+
+# Technologies & Tools 🔧
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=brightgreen)
+
+# GitHub Stats 📈
+
+<a href="https://github.com/Tere-Parra">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tere-Parra&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a> 
+
+<a href="https://github.com/Tere-Parra">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tere-Parra&theme=radical&hide_border=true)]([https://github.com/Tere-Parra])" alt="Tere's GitHub Stats Graph"/>
+</a>
+<br><br>
+
+<a href="https://github.com/Tere-Parra">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tere-Parra&theme=dark" alt="Tere's GitHub Streak Stats"/>
+</a>
+<br><br>
+
+<a href="https://github.com/Tere-Parra">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Tere-Parra&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Tere's GitHub Contributions Graph"/>
+</a>
+<br><br>
 
 
 
