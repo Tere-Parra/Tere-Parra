@@ -1,18 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        body {
-            background-color: #000;
-            color: #fff;
-        }
-    </style>
-</head>
-<body>
-    <!-- Tu contenido aquí -->
-</body>
-</html>
-
+    
 
 ![Header](Tere.png "Header")
 
@@ -102,7 +88,8 @@ That is the reason why I share my work and experiences through my personal git-h
 <a href="https://github.com/Tere-Parra">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tere-Parra&theme=dark" alt="Tere's GitHub Streak Stats"/>
 </a>
-<br><br>
+<br><be>
+    
 
 
 
