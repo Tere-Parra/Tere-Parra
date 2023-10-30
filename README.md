@@ -1,3 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            background-color: #000;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <!-- Tu contenido aquí -->
+</body>
+</html>
+
+
 ![Header](Tere.png "Header")
 
 # About me
