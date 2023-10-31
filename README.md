@@ -75,7 +75,7 @@ That is the reason why I share my work and experiences through my personal git-h
       <h3 align="center"> Molecular Docking pipeline: Deleting toxic compounds </h3>
  
    <br>
-  <a href="https://github.com/Tere-Parra/Molecular-Docking-pipeline-Deleting-toxic-compounds" target="_blank">
+  <a href="https://github.com/Tere-Parra/Molecular-Docking-pipeline-Deleting-toxic-compounds.-" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a> 
       </p>
