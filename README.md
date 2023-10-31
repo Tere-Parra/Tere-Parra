@@ -80,8 +80,8 @@ That is the reason why I share my work and experiences through my personal git-h
   </a> 
       </p>
         <p><strong> The objective of the project is to degrade the colorimetric molecules indigo blue and acid orange 10, whose origin is the waste of the textile industry. 
-        It is currently known from the literature that azoreductases are a family of enzymes with a high potential to degrade a wide variety of polluting compounds.
-        We applied computational methods to study the binding and stability properties of indigo blue and acid orange 10. The azoreductase test was from *Pseudomonas putida* .</p>
+        It is currently known from the literature that azoreductases are a family of enzymes with a high potential to degrade a wide variety of polluting compounds </p>
+      <p> We applied computational methods to study the binding and stability properties of indigo blue and acid orange 10. The azoreductase test was from *Pseudomonas putida*. </p>
     </td>
   </tr>
 </table>
