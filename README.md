@@ -45,7 +45,8 @@ That is the reason why I share my work and experiences through my personal git-h
         <p><strong> WGCNA is a library in R that allows you to find genes' relationship with specific traits .</p>
    
   </td>
-    <td width="50%" valign="top">
+  
+<td width="50%" valign="top">
       <h3 align="center"> Differential-Genes-in-Two-Types-of-Abiotic-Stress-in-Plants </h3>
  
    <br>
@@ -56,7 +57,8 @@ That is the reason why I share my work and experiences through my personal git-h
         <p><strong> In this analysis we took only the samples belonging to the conditions of water stress (WS) and water stress together with irradiation (WS + HL) .</p>
     </td>
   </tr>
-  
+
+  <tr> 
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"> Finding differential genes that may be involved in the overall survival of pancreatic cancer patients  </h3>
@@ -66,6 +68,20 @@ That is the reason why I share my work and experiences through my personal git-h
   </a>
       </p>
         <p><strong> The Genomic Data Commons (GDC) is a portal that contains a lot of projects related to cancer diseases. The GDC has transcriptomic, proteomic, genomic, and metabolomic data from Cancer patients. Here, I developed a pipeline to analyze a pancreatic cancer project. </p>
+    </td>
+  
+
+ <td width="50%" valign="top">
+      <h3 align="center"> Molecular Docking pipeline: Deleting toxic compounds </h3>
+ 
+   <br>
+  <a href="https://github.com/Tere-Parra/Molecular-Docking-pipeline-Deleting-toxic-compounds" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a> 
+      </p>
+        <p><strong> The objective of the project is to degrade the colorimetric molecules indigo blue and acid orange 10, whose origin is the waste of the textile industry. 
+        It is currently known from the literature that azoreductases are a family of enzymes with a high potential to degrade a wide variety of polluting compounds.
+        We applied computational methods to study the binding and stability properties of indigo blue and acid orange 10. The azoreductase test was from *Pseudomonas putida* .</p>
     </td>
   </tr>
 </table>
