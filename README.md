@@ -8,11 +8,11 @@
  <p align="left"> My name is Tere Parra, and I am a Mexican Biologist.
   
 Approximately two years ago, my interest in computational biology and bioinformatics emerged, prompting me to pursue further studies through a graduate degree in Bioinformatics and 
-Computational Biology.  My passion for understanding life is consolidated, driven by the need to understand and preserve the nature around me, without losing sight of the harsh social and economic realities that affect the people around me. Biology became the noose that allowed me to explore and protect this natural world I loved while inspiring me to seek equitable solutions for society. 
+Computational Biology.  My passion for understanding life is consolidated, driven by the need to understand and preserve the nature around me, without losing sight of the harsh social and economic realities that affect the people around me. Biology became the vehicle that allowed me to explore and protect this natural world I loved while inspiring me to seek equitable solutions for society. 
 
-Moreover, two years ago with the COVID-19 pandemic, the gift of a desktop computer from my aunt when closing her offices, changed my life, because it allowed me to focus on bioinformatics and discover that it is amazing. I understood that with little computational capacity, a lot could be done. It was a tool that would allow me to develop powerful solutions at low cost. My experiences, together with what I have seen in my country, my community, and other states have taught me that, to solve scientific and social problems, we need people who act to generate them. And today, with a computer and my mind, I feel like I'm able to solve them.
+Moreover, two years ago, with the COVID-19 pandemic, the gift of a desktop computer from my aunt when closing her offices, changed my life, because it allowed me to focus on bioinformatics and discover that it is amazing. I understood that with little computational capacity, a lot could be done. It was a tool that would allow me to develop powerful solutions at low cost. My experiences, together with what I have seen in my country, my community, and other states, have taught me that, to solve scientific and social problems, we need people who act to generate them. And today, with a computer and my mind, I feel like I can solve them.
 
-That is the reason why I share my work and experiences through my personal git-hub. Furthermore, as an international Fulbright-Garcia-Robles scholar, I want to pursue a Bioinformatics PhD degree. 
+That is why I share my work and experiences through my git-hub. Furthermore, as an international Fulbright-Garcia-Robles scholar, I want to pursue a Bioinformatics PhD degree. 
 
 🌱 I’m currently working with Genome-Scale Metabolic Models (GEM) in plants to fight climate change 
 
@@ -54,7 +54,7 @@ That is the reason why I share my work and experiences through my personal git-h
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a> 
       </p>
-        <p><strong> In this analysis we took only the samples belonging to the conditions of water stress (WS) and water stress together with irradiation (WS + HL) .</p>
+        <p><strong> In this analysis, we took only the samples belonging to the conditions of water stress (WS) and water stress together with irradiation (WS + HL) .</p>
     </td>
   </tr>
 
@@ -79,7 +79,7 @@ That is the reason why I share my work and experiences through my personal git-h
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a> 
       </p>
-        <p><strong> The objective of the project is to degrade the colorimetric molecules indigo blue and acid orange 10, whose origin is the waste of the textile industry. 
+        <p><strong> The project's objective is to degrade the colorimetric molecules indigo blue and acid orange 10, whose origin is the waste of the textile industry. 
         It is currently known from the literature that azoreductases are a family of enzymes with a high potential to degrade a wide variety of polluting compounds </p>
       <p> We applied computational methods to study the binding and stability properties of indigo blue and acid orange 10. The azoreductase test was from *Pseudomonas putida*. </p>
     </td>
