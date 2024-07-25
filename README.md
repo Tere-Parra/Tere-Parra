@@ -74,10 +74,7 @@ That is why I share my work and experiences through my git-hub. Furthermore, as 
  <td width="50%" valign="top">
       <h3 align="center"> Molecular Docking pipeline: Deleting toxic compounds </h3>
  
-   <br>
-  <a href="https://github.com/Tere-Parra/Molecular-Docking-pipeline-Deleting-toxic-compounds.-" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a> 
+
       </p>
         <p><strong> The project's objective is to degrade the colorimetric molecules indigo blue and acid orange 10, whose origin is the waste of the textile industry. 
         It is currently known from the literature that azoreductases are a family of enzymes with a high potential to degrade a wide variety of polluting compounds </p>
