@@ -14,7 +14,7 @@ Moreover, two years ago, with the COVID-19 pandemic, the gift of a desktop compu
 
 That is why I share my work and experiences through my git-hub. Furthermore, as an international Fulbright-Garcia-Robles scholar, I want to pursue a Bioinformatics PhD degree. 
 
-🌱 I’m currently working with Genome-Scale Metabolic Models (GEM) in plants to fight climate change 
+ 
 
 👯 I’m looking to collaborate on different projects
 
