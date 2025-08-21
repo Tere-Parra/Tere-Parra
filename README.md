@@ -9,9 +9,7 @@
   
 Approximately two years ago, my interest in computational biology and bioinformatics emerged, prompting me to pursue further studies through a graduate degree.  My passion for understanding life is consolidated, driven by the need to understand and preserve the nature around me, without losing sight of the harsh social and economic realities that affect the people around me. Biology became the vehicle that allowed me to explore and protect this natural world I loved while inspiring me to seek equitable solutions for society. 
 
-Moreover, two years ago, with the COVID-19 pandemic, the gift of a desktop computer from my aunt when closing her offices changed my life, because it allowed me to focus on bioinformatics and discover that it is amazing. I understood that with little computational capacity, a lot could be done. It was a tool that would allow me to develop powerful solutions at low cost. My experiences, together with what I have seen in my country, my community, and other states, have taught me that, to solve scientific and social problems, we need people who act to generate them. And today, with a computer and my mind, I can solve them.
-
-That is why I share my work and experiences through my GitHub. Furthermore, as an international Fulbright-Garcia-Robles scholar, I want to pursue a PhD. 
+Moreover, two years ago, with the COVID-19 pandemic, the gift of a desktop computer from my aunt when closing her offices changed my life, because it allowed me to focus on bioinformatics and discover that it is amazing. I understood that with little computational capacity, a lot could be done. It was a tool that would allow me to develop powerful solutions at low cost. That is why I share my work and experiences through my GitHub. Furthermore, as an international Fulbright-Garcia-Robles scholar, I want to pursue a PhD. 
 
  
 
